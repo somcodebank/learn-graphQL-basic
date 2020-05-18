@@ -1,0 +1,24 @@
+{
+  "name": "learn-graphQL-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gqlServer": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somcodebank/learn-graphQL-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somcodebank/learn-graphQL-basic/issues"
+  },
+  "homepage": "https://github.com/somcodebank/learn-graphQL-basic#readme",
+  "dependencies": {
+    "apollo-server": "^2.13.1",
+    "graphql": "^15.0.0"
+  }
+}
